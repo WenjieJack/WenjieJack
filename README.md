@@ -16,14 +16,6 @@ My name is Wenjie. You can call me Jack. I am majoring in Computer Science at Wa
 
 ## GitHub Stats
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WenjieJack&show_icons=true&theme=dracula"/>
-</a>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenjieJack&show_icons=true&theme=dracula"/>
-</a>
-
 <!--
 **WenjieJack/WenjieJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
