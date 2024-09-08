@@ -1,6 +1,6 @@
 # Wenjie ➜ Hi there!
 
-My name is Wenjie. You can call me Jack. I am majoring in Computer Science at Washington State University.
+
 
 ## Technologies
 
